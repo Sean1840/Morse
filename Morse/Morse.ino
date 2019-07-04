@@ -35,7 +35,7 @@ void loop()
         else if(a[i]=='e')
         {
             morse.dot();morse.c_space();
-        }
+        } 
         else if(a[i]=='f')
         {
             morse.dot();morse.c_space();morse.dot();morse.c_space();morse.dash();morse.c_space();morse.dot();morse.c_space();
